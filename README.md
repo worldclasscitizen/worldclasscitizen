@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=worldclasscitizen&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=worldclasscitizen&animation=twinkling)
