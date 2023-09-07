@@ -1,5 +1,17 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362)](https://solved.ac/jk62362)
+<div align="center">
+  
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362"/>
+  
+## 👋 worldclasscitizen 👋 
+  
+
+  🎓 경희대학교 일본어학과 재학
+  🗣 Mensa Korea
+ 
+
+  <br>
+ 
+</div>
 
 <div align="center">
   
