@@ -10,8 +10,8 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link=https://www.notion.so/CarpoolMeter-App-75b9e583d1444726909af22a8ca582b9)](https://www.notion.so/CarpoolMeter-App-75b9e583d1444726909af22a8ca582b9)
 <div align="center">
   
-  ### 🛠 Tech Stack 🛠
-  that used at least once
+  ### 🛠 Used at least once 🛠
+  
  
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/ C -A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <br>
