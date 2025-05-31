@@ -1,3 +1,78 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Jinwoo's%20Github&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Ready%20to%20code!&descSize=15&descAlignY=55" />
-</div>
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#667eea;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64ffda;stop-opacity:1">
+        <animate attributeName="stop-color" values="#64ffda;#1de9b6;#00bcd4;#64ffda" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#1de9b6;stop-opacity:1">
+        <animate attributeName="stop-color" values="#1de9b6;#00bcd4;#64ffda;#1de9b6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00bcd4;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00bcd4;#64ffda;#1de9b6;#00bcd4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <linearGradient id="textGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b9d;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff6b9d;#c44569;#f8b500;#ff6b9d" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#c44569;stop-opacity:1">
+        <animate attributeName="stop-color" values="#c44569;#f8b500;#ff6b9d;#c44569" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#f8b500;stop-opacity:1">
+        <animate attributeName="stop-color" values="#f8b500;#ff6b9d;#c44569;#f8b500" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="15" ry="15"/>
+  
+  <!-- Main Text -->
+  <text x="400" y="80" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="url(#textGrad1)" filter="url(#glow)">
+    Welcome to
+  </text>
+  
+  <text x="400" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="url(#textGrad2)" filter="url(#glow)">
+    Jinwoo's Github
+  </text>
+  
+  <!-- Animated Sparkles -->
+  <circle cx="150" cy="50" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="650" cy="150" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  
+  <circle cx="600" cy="60" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  
+  <circle cx="200" cy="140" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+  
+  <circle cx="400" cy="40" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite" begin="0.8s"/>
+  </circle>
+  
+  <circle cx="480" cy="170" r="2" fill="#64ffda" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+</svg>
