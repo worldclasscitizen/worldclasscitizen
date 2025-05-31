@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://your-uploaded-banner-url-here.gif" alt="Welcome to Jinwoo's GitHub" />
+  <img src="./githubBanner.gif" alt="Welcome to Jinwoo's GitHub" />
 </div>
 
 <!--내용 부분-->
