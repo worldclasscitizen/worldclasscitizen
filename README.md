@@ -1,6 +1,5 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="./banner.svg" alt="Welcome to Jinwoo's Github" />
 </div>
 
 <!--내용 부분-->
