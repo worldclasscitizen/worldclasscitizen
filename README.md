@@ -73,11 +73,13 @@
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
 <img src="https://img.shields.io/badge/MyBatis-111111?style=flat-square&logoColor=white" alt="MyBatis" />
 
+
 **Database / Infra**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
 
 **Frontend**
 <br>
@@ -87,11 +89,13 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 
+
 **Game Development**
 <br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Photon_Fusion-004480?style=flat-square&logoColor=white" alt="Photon Fusion" />
+
 
 **Tools**
 <br>
@@ -113,6 +117,7 @@
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
+
 ### ASAP
 
 | 항목 | 내용 |
@@ -121,6 +126,7 @@
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
+
 ### KAIROS
 
 | 항목 | 내용 |
@@ -128,6 +134,7 @@
 | 프로젝트명 | KAIROS |
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
+
 
 ### AI-Oyatsu
 
