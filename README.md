@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=170&section=header&text=Choi%20Jinwoo&fontSize=38&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Building%20systems%20with%20care&descAlignY=55&descAlign=64&fontColor=ffffff)
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -156,5 +154,3 @@
     <img src="https://img.shields.io/badge/Velog-teddynu-1EBC8F?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=140&section=footer)
