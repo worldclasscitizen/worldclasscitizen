@@ -115,6 +115,7 @@
 | 항목 | 내용 |
 | :--- | :--- |
 | 프로젝트명 | TRIT |
+| 개발 기간 | 2025. 11. ~ 2025. 12. |
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
@@ -124,6 +125,7 @@
 | 항목 | 내용 |
 | :--- | :--- |
 | 프로젝트명 | ASAP |
+| 개발 기간 | 2026. 01. ~ 2026. 02. |
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
@@ -133,6 +135,7 @@
 | 항목 | 내용 |
 | :--- | :--- |
 | 프로젝트명 | KAIROS |
+| 개발 기간 | 2026.02. ~ 2026.03. |
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
@@ -142,6 +145,7 @@
 | 항목 | 내용 |
 | :--- | :--- |
 | 프로젝트명 | AI-Oyatsu |
+| 개발 기간 | 2026.04. ~ |
 | 소개 | project details coming soon |
 | 기술 스택 | to be updated |
 
