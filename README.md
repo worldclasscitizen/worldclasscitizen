@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Interested+in+games+and+multiplayer+systems;Still+learning%2C+still+building&font=JetBrains+Mono&center=true&width=700&height=48&color=4F8CC9&vCenter=true&pause=1500&size=23&duration=2200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Interested+in+building+clean+systems;Still+learning%2C+still+building&font=JetBrains+Mono&center=true&width=700&height=48&color=4F8CC9&vCenter=true&pause=1500&size=23&duration=2200" alt="Typing SVG" />
 </a>
 
 <br>
@@ -24,14 +24,32 @@
   <tr>
     <td>
       <h3>Profile</h3>
-      <p>
-        안녕하세요, 최진우입니다.<br/>
-        <strong>2000. 04. 07.</strong><br/><br/>
-        백엔드 개발을 중심으로 공부해왔고,<br/>
-        최근에는 Unity와 Photon Fusion을 활용한 게임 프로토타이핑과 실시간 멀티플레이 구조에도 관심을 넓혀가고 있습니다.<br/><br/>
-        기능을 구현하는 것에 그치지 않고,<br/>
-        구조를 어떻게 나누면 더 읽기 쉽고 유지보수하기 쉬운지까지 함께 고민하는 개발자를 지향합니다.
-      </p>
+      <table>
+        <tr>
+          <td><strong>Name</strong></td>
+          <td>Choi Jinwoo</td>
+        </tr>
+        <tr>
+          <td><strong>Birth</strong></td>
+          <td>2000. 04. 07.</td>
+        </tr>
+        <tr>
+          <td><strong>Track</strong></td>
+          <td>Backend Developer</td>
+        </tr>
+        <tr>
+          <td><strong>Interest</strong></td>
+          <td>Java, Spring Boot, Database, System Design</td>
+        </tr>
+        <tr>
+          <td><strong>Blog</strong></td>
+          <td><a href="https://velog.io/@teddynu/posts">velog.io/@teddynu</a></td>
+        </tr>
+        <tr>
+          <td><strong>Email</strong></td>
+          <td><a href="mailto:jk62362@mensakorea.org">jk62362@mensakorea.org</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -66,11 +84,8 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-**Game / Client**
+**Frontend / Client**
 <br>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Photon_Fusion-004480?style=flat-square&logoColor=white" alt="Photon Fusion" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 
 **Tools**
