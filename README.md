@@ -20,38 +20,14 @@
 
 ## Profile
 
-<table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td><strong>Name</strong></td>
-          <td>최진우(Jinwoo Choi)</td>
-        </tr>
-        <tr>
-          <td><strong>Birth</strong></td>
-          <td>2000. 04. 07.</td>
-        </tr>
-        <tr>
-          <td><strong>Track</strong></td>
-          <td>Backend Developer</td>
-        </tr>
-        <tr>
-          <td><strong>Interest</strong></td>
-          <td>Java, Spring Boot, Database, System Design</td>
-        </tr>
-        <tr>
-          <td><strong>Blog</strong></td>
-          <td><a href="https://velog.io/@teddynu/posts">velog.io/@teddynu</a></td>
-        </tr>
-        <tr>
-          <td><strong>Email</strong></td>
-          <td><a href="mailto:jk62362@mensakorea.org">jk62362@mensakorea.org</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+| 항목 | 내용 |
+| :--- | :--- |
+| Name | 최진우(Jinwoo Choi) |
+| Birth | 2000. 04. 07. |
+| Track | Backend Developer |
+| Interest | Java, Spring Boot, Database, System Design |
+| Blog | [velog.io/@teddynu](https://velog.io/@teddynu/posts) |
+| Email | [jk62362@mensakorea.org](mailto:jk62362@mensakorea.org) |
 
 ---
 
