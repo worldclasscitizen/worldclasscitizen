@@ -110,29 +110,33 @@
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 프로젝트 | TRIT |
-| 상세 | project details coming soon |
+| 프로젝트명 | TRIT |
+| 소개 | project details coming soon |
+| 기술 스택 | to be updated |
 
 ### ASAP
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 프로젝트 | ASAP |
-| 상세 | project details coming soon |
+| 프로젝트명 | ASAP |
+| 소개 | project details coming soon |
+| 기술 스택 | to be updated |
 
 ### KAIROS
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 프로젝트 | KAIROS |
-| 상세 | project details coming soon |
+| 프로젝트명 | KAIROS |
+| 소개 | project details coming soon |
+| 기술 스택 | to be updated |
 
 ### AI-Oyatsu
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 프로젝트 | AI-Oyatsu |
-| 상세 | project details coming soon |
+| 프로젝트명 | AI-Oyatsu |
+| 소개 | project details coming soon |
+| 기술 스택 | to be updated |
 
 ---
 
