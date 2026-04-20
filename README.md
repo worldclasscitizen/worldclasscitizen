@@ -25,7 +25,7 @@
       <table>
         <tr>
           <td><strong>Name</strong></td>
-          <td>Choi Jinwoo</td>
+          <td>최진우(Jinwoo Choi)</td>
         </tr>
         <tr>
           <td><strong>Birth</strong></td>
