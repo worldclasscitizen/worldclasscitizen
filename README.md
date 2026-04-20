@@ -108,9 +108,33 @@
 
 ## Projects
 
-| <div align="center"><strong>TRIT</strong></div> | <div align="center"><strong>ASAP</strong></div> | <div align="center"><strong>KAIROS</strong></div> | <div align="center"><strong>AI-Oyatsu</strong></div> |
-| :---: | :---: | :---: | :---: |
-| <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> |
+### TRIT
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 프로젝트 | TRIT |
+| 상세 | project details coming soon |
+
+### ASAP
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 프로젝트 | ASAP |
+| 상세 | project details coming soon |
+
+### KAIROS
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 프로젝트 | KAIROS |
+| 상세 | project details coming soon |
+
+### AI-Oyatsu
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 프로젝트 | AI-Oyatsu |
+| 상세 | project details coming soon |
 
 ---
 
