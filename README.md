@@ -1,7 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=170&section=header&text=Choi%20Jinwoo&fontSize=38&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20Building%20systems%20with%20care&descAlignY=55&descAlign=64&fontColor=ffffff)
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Choi+Jinwoo;Backend+Developer;Building+systems+and+shipping+projects&font=JetBrains+Mono&center=true&width=620&height=52&color=4F8CC9&vCenter=true&pause=1600&size=24&duration=2200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Interested+in+games+and+multiplayer+systems;Still+learning%2C+still+building&font=JetBrains+Mono&center=true&width=700&height=48&color=4F8CC9&vCenter=true&pause=1500&size=23&duration=2200" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,26 +20,36 @@
 
 ---
 
-<div align="center">
-
-### Profile
-
-최진우  
-`2000. 04. 07.`
-
-서울외국어고등학교 일본어학과 졸업  
-경희대학교 일본어학과 졸업
-
-백엔드 개발을 중심으로 공부해왔고,  
-최근에는 게임 프로토타이핑과 실시간 멀티플레이 구조에도 관심을 넓혀가고 있습니다.
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Profile</h3>
+      <p>
+        안녕하세요, 최진우입니다.<br/>
+        <strong>2000. 04. 07.</strong><br/><br/>
+        백엔드 개발을 중심으로 공부해왔고,<br/>
+        최근에는 Unity와 Photon Fusion을 활용한 게임 프로토타이핑과 실시간 멀티플레이 구조에도 관심을 넓혀가고 있습니다.<br/><br/>
+        기능을 구현하는 것에 그치지 않고,<br/>
+        구조를 어떻게 나누면 더 읽기 쉽고 유지보수하기 쉬운지까지 함께 고민하는 개발자를 지향합니다.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+## Education
 
-### Tech Stack
+| 기간 | 내용 |
+| :--- | :--- |
+| 2016. 03. - 2019. 02. | 서울외국어고등학교 일본어학과 졸업 |
+| 2019. 03. - 2025. 08. | 경희대학교 일본어학과 졸업 |
+
+---
+
+## Tech Stack
+
+<div align="center">
 
 **Backend**
 <br>
@@ -73,58 +85,32 @@
 
 ---
 
+## Projects
+
+| <div align="center"><strong>TRIT</strong></div> | <div align="center"><strong>ASAP</strong></div> | <div align="center"><strong>KAIROS</strong></div> | <div align="center"><strong>AI-Oyatsu</strong></div> |
+| :---: | :---: | :---: | :---: |
+| <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> | <div align="center">project details coming soon</div> |
+
+---
+
+## Problem Solving
+
 <div align="center">
-
-### Projects
-
-</div>
-
-<div align="center">
-
-**TRIT**
-<br>
-project details coming soon
-
-<br>
-
-**ASAP**
-<br>
-project details coming soon
-
-<br>
-
-**KAIROS**
-<br>
-project details coming soon
-
-<br>
-
-**AI-Oyatsu**
-<br>
-project details coming soon
-
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362" alt="Baekjoon Badge" />
+  <img src="http://mazandi.herokuapp.com/api?handle=jk62362&theme=warm" alt="Mazandi Stats" />
 </div>
 
 ---
 
-<div align="center">
-
-### Problem Solving
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362" alt="Baekjoon Badge" />
-<img src="http://mazandi.herokuapp.com/api?handle=jk62362&theme=warm" alt="Mazandi Stats" />
-
-</div>
-
----
+## Contact
 
 <div align="center">
-
-<a href="mailto:jk62362@mensakorea.org">
-  <img src="https://img.shields.io/badge/Email-jk62362%40mensakorea.org-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://velog.io/@teddynu/posts">
-  <img src="https://img.shields.io/badge/Velog-teddynu-1EBC8F?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
-</a>
-
+  <a href="mailto:jk62362@mensakorea.org">
+    <img src="https://img.shields.io/badge/Email-jk62362%40mensakorea.org-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://velog.io/@teddynu/posts">
+    <img src="https://img.shields.io/badge/Velog-teddynu-1EBC8F?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
+  </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=140&section=footer)
