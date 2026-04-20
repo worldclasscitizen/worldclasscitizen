@@ -18,7 +18,7 @@
 
 ---
 
-## Profile
+## 👤 Profile
 
 | 항목 | 내용 |
 | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ---
 
-## Education
+## 🎓 Education
 
 | 기간 | 내용 | 비고 |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Backend**
 <br>
@@ -84,7 +84,7 @@
 
 ---
 
-## Projects
+## 📁 Projects
 
 ### TRIT
 
@@ -127,7 +127,7 @@
 
 ---
 
-## Algorithm
+## 🧩 Algorithm
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362" alt="Baekjoon Badge" />
@@ -135,7 +135,7 @@
 
 ---
 
-## Contact
+## 📫 Contact
 
 <div align="center">
   <a href="mailto:jk62362@mensakorea.org">
