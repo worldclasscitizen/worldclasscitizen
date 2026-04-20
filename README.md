@@ -132,16 +132,3 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jk62362" alt="Baekjoon Badge" />
 </div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-  <a href="mailto:jk62362@mensakorea.org">
-    <img src="https://img.shields.io/badge/Email-jk62362%40mensakorea.org-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://velog.io/@teddynu/posts">
-    <img src="https://img.shields.io/badge/Velog-teddynu-1EBC8F?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
-  </a>
-</div>
