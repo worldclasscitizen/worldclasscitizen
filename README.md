@@ -18,10 +18,11 @@
 
 ---
 
+## Profile
+
 <table>
   <tr>
     <td>
-      <h3>Profile</h3>
       <table>
         <tr>
           <td><strong>Name</strong></td>
