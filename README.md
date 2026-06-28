@@ -24,8 +24,8 @@
 | :--- | :--- |
 | Name | 최진우(Jinwoo Choi) |
 | Birth | 2000. 04. 07. |
-| Track | Backend Developer |
-| Interest | Java, Spring Boot, Database, System Design |
+| Position | Backend Developer |
+| Interests | Java, Spring Boot, Database, System Design |
 | Blog | [velog.io/@teddynu](https://velog.io/@teddynu/posts) |
 | Email | [jk62362@mensakorea.org](mailto:jk62362@mensakorea.org) |
 
