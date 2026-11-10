@@ -64,13 +64,6 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 
 
-**Game Development**
-<br>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Photon_Fusion-004480?style=flat-square&logoColor=white" alt="Photon Fusion" />
-
-
 **Tools**
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
